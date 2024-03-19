@@ -34,7 +34,7 @@
     "diagram-js": "12.3.0",
     "didi": "9.0.2",
     "echarts": "5.5.0",
-    "element-plus": "2.4.4",
+    "element-plus": "2.6.1",
     "file-saver": "2.0.5",
     "fuse.js": "7.0.0",
     "highlight.js": "11.9.0",
@@ -55,7 +55,8 @@
     "vue-router": "4.3.0",
     "vue-types": "5.1.1",
     "vxe-table": "4.5.21",
-    "zeebe-bpmn-moddle": "1.0.0"
+    "zeebe-bpmn-moddle": "1.0.0",
+    "vuedraggable": "4.1.0"
   },
   "devDependencies": {
     "@iconify/json": "2.2.193",
