@@ -7,6 +7,10 @@ declare global {
   /**vue */
   declare type PropType<T> = VuePropType<T>;
 
+  interface Window {
+    tinymce: any;
+  }
+
   /**
    * 界面字段隐藏属性
    */
